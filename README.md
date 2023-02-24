@@ -1,4 +1,4 @@
-<bold><h2>Abstract:<bold><h2>													
+<bold><h4>Abstract:<bold><h4>													
 
 As people with diabetes can have an eye disease called diabetic retinopathy, which can lead to high blood sugar levels cause damage to blood vessels in the retina. These blood vessels can swell and leak or they can close, stopping blood from passing through. Sometimes abnormal, new blood vessels grow on the retina. All of these changes can steal the vision.​​ The main motivation behind doing this project is to easily detect Diabetic Retinopathy among adults in the early stages itself so that proper medical care can be taken. In the proposed work various machine learning techniques like Probabilistic Neural Network, Convolutional Neural Network will be used for the detection of Diabetic Retinopathy. Subsequently various statistical measures will be used to further validate the results. 
 
